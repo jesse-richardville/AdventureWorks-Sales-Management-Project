@@ -3,7 +3,7 @@
 ### Skills used: SQL Server (Joins, Concatenante, Case, DateDiff) and Power BI (interactive dashboards for sales, customers, and products)
 
 ## Description
-This is a data exploration project using the Microsoft AdventureWorks [database](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms) to deliver an executive business request using SQL and Power BI. The sales manager requested live and interactive sales reports for management and the sales team to track sales over time per customers and products in real time.
+This is a data exploration project using the Microsoft AdventureWorks [database](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms), which is a product sample for an online transaction processing (OLTP) database depicting a fictitious, multinational manufacturing company called Adventure Works Cycles. This analysis delivers an executive business request using SQL and Power BI on two years of data (January 2021 - January 2023), which leads to the conclusion that Mountain Bikes are the most popular sale item, Bikes make up the majority of sales (95.3%), and December is the busiest month for sales. The sales manager requested live and interactive sales reports for management and the sales team to track sales over time per customers and products in real time.
 
 Used existing sample database from Microsoft [AdventureWorks](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak) to create a data analyst project using SQL (SSMS) for transformation/analysis and Power BI for visualization.
 
