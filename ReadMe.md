@@ -18,3 +18,5 @@ Relevant tables have been cleaned and transformed using SSMS to create useful qu
 Tables have been extracted and saved as .csv files then imported into Microsoft Power BI for visualization and can be viewed as "DIM_%.csv" and "FACT_%.csv" files.
 
 A report has been created to fulfill the business request/scenario and can be seen [here](https://jesserichardville.wordpress.com/) which was exported as a live and interactive Power BI [dashboard](https://app.powerbi.com/links/LRRRrNlE1P?ctid=dd9514d9-0843-4d4f-8158-06bf09d7ea7c&pbi_source=linkShare&bookmarkGuid=3f1b3e80-1e6b-44a8-b865-0ba062c35f12).
+
+This analysis delivers an executive business request using SQL and Power BI on two years of data (January 2021 - January 2023), which leads to the conclusion that Mountain Bikes are the most popular sale item, Bikes make up the majority of sales (95.3%), and December is the busiest month for sales.
